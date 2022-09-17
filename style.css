@@ -1,0 +1,93 @@
+body{
+    background-color: burlywood;
+    
+}
+
+.banner{
+    background-image: url(./images/banner\ 1.jpg);
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+
+}
+.navigation{
+    background-color: burlywood;
+    text-align: center;
+    margin-top: 15px;
+    
+
+}
+.navigation a{
+    background-color: lightcoral;
+    border-radius: 15px;
+    text-decoration: none;
+    font-size: 25px;
+    margin-right: 20px ;
+    padding:10px 20px;
+    color: white;
+    
+}
+.navigation a:hover{
+    color: greenyellow;
+}
+
+.welcome{
+    background-color: burlywood;
+    border: 5px double lightcoral;
+    text-align: center;
+    margin-top: 20px;
+    height: 150px;
+
+}
+
+.welcome h1{
+    color: lightseagreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.welcome h3{
+    color: brown;
+    text-decoration: underline;
+}
+
+.cards{
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+.card{
+    display: inline-block;
+    border: 2px solid lightcoral;
+    text-align: center;
+    margin-bottom: 10px ;
+    margin-left: 10px;
+}
+
+.card img{
+    width: 350px ;
+    height: 400px;
+    
+}
+
+.card h2{
+    color: white;
+    
+}
+
+.bottom h2{
+
+    color: brown;
+
+}
+
+.footer{
+    color: red;
+    
+}
+    
+
+
+
+
